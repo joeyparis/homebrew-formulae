@@ -1,4 +1,4 @@
-class SPatch < Formula
+class Spatch < Formula
   desc "Script to create a git branch comprised of patches for multiple branches"
   homepage "https://github.com/joeyparis/spatch"
   url "https://github.com/joeyparis/spatch/archive/v0.0.1.tar.gz"
